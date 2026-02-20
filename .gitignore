@@ -1,0 +1,16 @@
+*.pyc
+*.pyd
+*.txt
+*.pyi
+*.lib
+*.csv
+*.pyc
+*.py
+venv
+
+
+!Simulador_De_Reservas.py
+!__init__.py
+!auth.py
+!blog.py
+!db.py
