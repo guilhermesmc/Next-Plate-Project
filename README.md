@@ -37,3 +37,11 @@ Funcionalidades
 - Confirmação de reserva
 - Validação de entradas do usuário
 - Navegação por menus
+
+
+Tecnologias utilizadas
+
+- Python
+- Programação orientada a objetos
+- Manipulação de listas e estruturas de dados
+- Entrada e saída via terminal
