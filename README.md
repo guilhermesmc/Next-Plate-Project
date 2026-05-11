@@ -29,7 +29,6 @@ Horário da reserva:
 
 Reserva confirmada com sucesso!
 
----
 
 ## Funcionalidades
 
@@ -39,8 +38,6 @@ Reserva confirmada com sucesso!
 - Confirmação de reserva
 - Validação de entradas do usuário
 - Navegação por menus
-
----
 
 
 ## Tecnologias utilizadas
