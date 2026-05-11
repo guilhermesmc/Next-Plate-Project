@@ -4,7 +4,7 @@ Sistema em terminal para busca e reserva de restaurantes em uma região definida
 
 O projeto permite pesquisar restaurantes disponíveis em uma determinada área, visualizar informações relevantes e realizar reservas diretamente pelo terminal de forma interativa.
 
-# Demonstração
+## Demonstração
 
 Digite sua região:
 > Centro
@@ -31,7 +31,7 @@ Reserva confirmada com sucesso!
 
 ---
 
-Funcionalidades
+## Funcionalidades
 
 - Busca de restaurantes por região
 - Interface interativa via terminal
@@ -43,7 +43,7 @@ Funcionalidades
 ---
 
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - Programação orientada a objetos
