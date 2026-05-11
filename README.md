@@ -29,6 +29,8 @@ Horário da reserva:
 
 Reserva confirmada com sucesso!
 
+---
+
 Funcionalidades
 
 - Busca de restaurantes por região
@@ -37,6 +39,8 @@ Funcionalidades
 - Confirmação de reserva
 - Validação de entradas do usuário
 - Navegação por menus
+
+---
 
 
 Tecnologias utilizadas
