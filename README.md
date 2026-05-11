@@ -6,10 +6,6 @@ O projeto permite pesquisar restaurantes disponíveis em uma determinada área, 
 
 # Demonstração
 
-=====================================
-        NEXT PLATE
-=====================================
-
 Digite sua região:
 > Centro
 
@@ -32,3 +28,12 @@ Horário da reserva:
 > 20:00
 
 Reserva confirmada com sucesso!
+
+Funcionalidades
+
+- Busca de restaurantes por região
+- Interface interativa via terminal
+- Sistema de reservas
+- Confirmação de reserva
+- Validação de entradas do usuário
+- Navegação por menus
